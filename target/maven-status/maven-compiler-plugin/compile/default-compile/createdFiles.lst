@@ -1,0 +1,3 @@
+com/boot/auth/AuthApplication.class
+com/boot/auth/config/MVCConfig.class
+com/boot/auth/config/SecurityConfig.class
